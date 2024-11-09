@@ -4332,13 +4332,13 @@ const _inlineRuntimeConfig = {
     }
   },
   "public": {
-    "baseURL": "https://deva.dapp.expert/",
-    "frontendDomain": "https://devf.dapp.expert/",
+    "baseURL": "https://dappbe-production.up.railway.app/",
+    "frontendDomain": "https://dappfe-production.up.railway.app/",
     "WC_PROJECT_ID": "0a38a14e603ed2b8a6f3c99d604a70f3",
     "G_RECAPTCHA_SITE_KEY": "6LexkFYqAAAAAI2EI8EVAnm8mMABuEEWyRPw4tR-",
-    "rootDomain": ".dapp.expert",
+    "rootDomain": ".up.railway.app",
     "i18n": {
-      "baseUrl": "https://devf.dapp.expert/",
+      "baseUrl": "https://dappfe-production.up.railway.app/",
       "defaultLocale": "en",
       "defaultDirection": "ltr",
       "strategy": "prefix_except_default",
