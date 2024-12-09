@@ -3,7 +3,7 @@ services:
   node:
     image: node:20.10-alpine
     environment:
-      - API_URL=https://your-new-backend-url.railway.app
+      - API_URL=https://dappbe-production.up.railway.app
     ports:
       - "3000:3000"
     working_dir: /www
